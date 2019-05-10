@@ -6,7 +6,8 @@ body {
 .nav-bar {
     height:100px;
     width:100%;
-    background-color:magenta;
+    /*background-color:magenta;*/
+    background-color:red;
     border:3px solid #8c09af9e;
     position:fixed;
     top:0;
